@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M1Q1_VerticalOrder_314.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -21,6 +21,15 @@
               <folding>
                 <element signature="e#372#401#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -55,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/Q1_VerticalOrder_314.py" />
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/M1Q1_VerticalOrder_314.py" />
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/H1Q2_VerticalOrder_987.py" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py" />
       </list>
     </option>
   </component>
@@ -135,7 +145,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,6 +197,13 @@
           <folding>
             <element signature="e#372#401#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>

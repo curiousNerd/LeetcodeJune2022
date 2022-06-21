@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="987284b0-be73-4d23-a839-fb5e016c85d0" name="Default Changelist" comment="" />
+    <list default="true" id="987284b0-be73-4d23-a839-fb5e016c85d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.H1Q2_VerticalOrder_987.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.H1Q2_VerticalOrder_987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M1Q1_VerticalOrder_314.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M1Q1_VerticalOrder_314.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M2Q3_LowestCommonAncestor_236.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M2Q3_LowestCommonAncestor_236.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M3Q4_LowestCommonAncestor_1650.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M3Q4_LowestCommonAncestor_1650.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,43 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M1Q1_VerticalOrder_314.py">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-              <folding>
-                <element signature="e#372#401#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M3Q4_LowestCommonAncestor_1650.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/H1Q2_VerticalOrder_987.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#11#40#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1004">
+              <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -75,6 +49,7 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/H1Q2_VerticalOrder_987.py" />
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py" />
         <option value="$PROJECT_DIR$/src/Leetcode/Trees/M3Q4_LowestCommonAncestor_1650.py" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py" />
       </list>
     </option>
   </component>
@@ -160,6 +135,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14069952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -195,37 +171,44 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/H1Q2_VerticalOrder_987.py">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Archive/Ar.H1Q2_VerticalOrder_987.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#11#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M2Q3_LowestCommonAncestor_236.py">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Archive/Ar.M1Q1_VerticalOrder_314.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="434">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#372#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Archive/Ar.M2Q3_LowestCommonAncestor_236.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M3Q4_LowestCommonAncestor_1650.py">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Archive/Ar.M3Q4_LowestCommonAncestor_1650.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="675">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Trees/M1Q1_VerticalOrder_314.py">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="e#372#401#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1004">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
         </state>
       </provider>
     </entry>

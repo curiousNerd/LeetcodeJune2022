@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987284b0-be73-4d23-a839-fb5e016c85d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.H1Q2_VerticalOrder_987.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.H1Q2_VerticalOrder_987.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M1Q1_VerticalOrder_314.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M1Q1_VerticalOrder_314.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M2Q3_LowestCommonAncestor_236.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M2Q3_LowestCommonAncestor_236.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Trees/Ar.M3Q4_LowestCommonAncestor_1650.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Archive/Ar.M3Q4_LowestCommonAncestor_1650.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1004">
-              <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+            <state relative-caret-position="509">
+              <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -80,6 +75,13 @@
               <item name="LeetcodeJune2022" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeJune2022" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeJune2022" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/M1_Q1_RandomPickWithWeight_528.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1004">
-          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+        <state relative-caret-position="509">
+          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
         </state>
       </provider>
     </entry>

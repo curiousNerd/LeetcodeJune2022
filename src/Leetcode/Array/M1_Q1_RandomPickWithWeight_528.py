@@ -37,8 +37,8 @@ class Solution2:
 
     '''
     This is Linear Solution
-    T : O(n)
-    S : O(n)
+    T : O(n) : Can reach 10^9
+    S : O(n) : Can reach 10^9
     '''
 
     def __init__(self, arr):
@@ -64,7 +64,7 @@ class Solution2:
 
 class Solution:
 
-    def __init__(self, arr: List[int]):
+    def __init__(self, arr: int):
 
         self.arr = arr
         self.cum_arr = [None] * len(arr)
